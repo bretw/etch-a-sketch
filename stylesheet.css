@@ -1,0 +1,22 @@
+.grid {
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.grid-item {
+    background-color: grey;
+    border: 1px black solid;
+    height: 20px;
+}
+
+.newGrid-container {
+    display: flex;
+    flex: 1;
+    background-color: black;
+    color: white;
+}
+
